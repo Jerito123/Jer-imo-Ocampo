@@ -1,9 +1,13 @@
-student_name = "Jerónimo Ocampo"
-age = 15
-city = "Cali"
-counter=0
-counter +=1
-print (counter)
-text1="hi,"
-text2="my name is jeronimo"
-print (text1, text2)
+#9-D Jeróimo Ocampo 
+#5 sept 2025
+#Excercise 1
+age= 14
+name= "Jerónimo"
+last_names= "Ocampo Aristizábal"
+counter = 0
+counter1 = 0+1
+print("The new value for the counter is:", counter)
+greeting= "hello "
+name2="my name is Jerónimo"
+message=greeting+name2
+print(message)

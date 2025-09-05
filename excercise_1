@@ -1,0 +1,9 @@
+student_name = "Jerónimo Ocampo"
+age = 15
+city = "Cali"
+counter=0
+counter +=1
+print (counter)
+text1="hi,"
+text2="my name is jeronimo"
+print (text1, text2)
